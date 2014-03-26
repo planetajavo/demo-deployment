@@ -2,7 +2,7 @@
 
 # demo-deployment
 
-A demo for the deployment package.
+A demo for the deployment package, forked.
 
 ## Usage
 
